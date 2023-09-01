@@ -5,7 +5,7 @@ Welcome to my world!
 
 
 
-### 📍 About me 
+### 📍 About me
 ---
 🏫 Sookmyung Women's University, Seoul.
   - Majoring in `Information Technology Engineering` & `Global Environment`
