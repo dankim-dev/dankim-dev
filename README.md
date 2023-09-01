@@ -1,7 +1,7 @@
 ### Hi there 👋
 💛 Welcome to my world!
 
-#### About me 
+### 📍 About me 
 - 🏫 Majoring in `Information Technology Engineering` & `Global Environment` at Sookmyung Women's University, Seoul.   
 
 - 🌱 Interested in **Artificial Intelligence**, **Data Analysis**, and **Urban Engineering**.
