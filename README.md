@@ -1,11 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 Welcome to my world!
 
-
-
-
-
-### 📍 About me
+## 📍 About me
 ---
 🏫 Sookmyung Women's University, Seoul.
   - Majoring in `Information Technology Engineering` & `Global Environment`
@@ -14,6 +10,9 @@ Welcome to my world!
   - Artificial Intelligence
   - Data Analysis
   - Urban Planning
+
+### 📫 How to reach me:
+
 <!--
 **dankim-dev/dankim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
