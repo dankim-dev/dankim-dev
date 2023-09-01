@@ -1,8 +1,8 @@
 ### Hi there 👋
 💛 Welcome to my world!
 
-✨ I'm Dan Kim, a junior Developer.
-🏫 I'm majoring in `Information Technology Engineering` & `Global Environment` at Sookmyung Women's University, Seoul.
+✨ I'm Dan Kim, a junior Developer.   
+🏫 I'm majoring in `Information Technology Engineering` & `Global Environment` at Sookmyung Women's University, Seoul.   
 🌱 I'm
 <!--
 **dankim-dev/dankim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
