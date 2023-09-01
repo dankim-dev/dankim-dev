@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏫 I'm majoring in Information Technology Engineering & Global Environment at Sookmyung Women's University, Seoul.
+🏫 I'm majoring in `Information Technology Engineering` & `Global Environment` at Sookmyung Women's University, Seoul.
 <!--
 **dankim-dev/dankim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
