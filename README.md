@@ -5,7 +5,7 @@ Welcome to my world!
 🏫 Sookmyung Women's University, Seoul.
   - Majoring in `Information Technology Engineering` & `Global Environmental Studies`
     
-🚀 I'm currently interested in :
+🚀 I'm currently interested in:
   - Artificial Intelligence
   - Data Analysis
   - Sustainable architecture
