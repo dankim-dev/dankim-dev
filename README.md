@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Dan Kim.
 Welcome to my world!
 
-## 📍 About me:
-🏫 Education
-  - Majoring in `Information Technology Engineering` & `Global Environmental Studies` @ Sookmyung Women's University, Seoul.
+### 📍 About me:
+🏫 Sookmyung Women's University, Seoul
+  - Majoring in `Information Technology Engineering` & `Global Environmental Studies`
     
 🚀 I'm currently interested in:
   - Artificial Intelligence
-  - Data Analysis
+  - Data Visualization
   - Sustainable Architecture
   
 ## 📫 How to reach me:
