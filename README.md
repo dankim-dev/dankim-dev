@@ -7,7 +7,7 @@
     
 🚀 I'm currently interested in:
   - Artificial Intelligence
-  - Data Visualization
+  - Data Analysis
   - Sustainable Architecture
   
 ## 📫 How to reach me:
