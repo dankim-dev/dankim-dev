@@ -17,15 +17,7 @@
   <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,ai" />
 </p>
 
-
-## 👒 Current Projects
-<p>
- <img src="=https://github.com/it-graduation-project/overview-en/blob/main/assets/rhyfeel.svg" width="50" align="left" hspace="10">
- <p>
-   <h3><a href="https://rhyfeel.site/">RhyFeel</a></h3>
-   Multi-modal music translation platform for the hearing impaired 
- </p>
-</p>
+<br>
 
 
 ## 📫 How to reach me:
