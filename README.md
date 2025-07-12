@@ -18,6 +18,16 @@
 </p>
 
 
+## 👒 Current Projects
+<p>
+ <img src="=https://github.com/it-graduation-project/overview-en/blob/main/assets/rhyfeel.svg" width="50" align="left" hspace="10">
+ <p>
+   <h3><a href="https://rhyfeel.site/">RhyFeel</a></h3>
+   Multi-modal music translation platform for the hearing impaired 
+ </p>
+</p>
+
+
 ## 📫 How to reach me:
 
 <a href="mailto:dankim.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&link=mailto:dankim.developer@gmail.com"/></a> 
