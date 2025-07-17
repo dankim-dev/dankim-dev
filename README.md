@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Dan Kim.
 > Welcome to my world!
 
-
-## 🚀 About me:
-🌐 Experienced in full-stack development combining modern web, IoT, and AI technologies<br>
-🌿 Interested in Sustainable Architecture & Environmental Issues<br>
-🎓 Final-year student in IT Engineering & Global Environmental Studies @Sookmyung W.Univ, Seoul<br>
+## 🚀 Current Interests
+- Full-stack development in IoT and AI
+- Sustainable Architecture and Environmental Issues
 
 ## 🔧 Technologies
 
@@ -18,7 +16,6 @@
 </p>
 
 <br>
-
 
 ## 📫 How to reach me:
 
