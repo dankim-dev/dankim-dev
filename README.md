@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dan Kim.
+### Hi there 👋 I'm Dan Kim
 > Welcome to my world!
 
 ## 🚀 Current Interests
